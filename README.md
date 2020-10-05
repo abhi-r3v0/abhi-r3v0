@@ -1,6 +1,6 @@
 ### Hey there, fellow explorer! 
 
-Abhishek here, trying to make my Github look fancier than yesterday. 
+Abhishek here, trying to make my Github look like it is still functional. 
 If you like my projects, please drop a star. It motivates me to write better READMEs :stuck_out_tongue:
 
 #### What am I upto these days?
