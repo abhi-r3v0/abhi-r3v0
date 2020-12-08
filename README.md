@@ -6,7 +6,8 @@ If you like my projects, please drop a star. It motivates me to write better REA
 #### What am I upto these days?
 
 - Project: __Adhrit__
-- Topics: Bytecode analysis, device farm detection techniques
+- Topics: 1. Bytecode analysis 
+          2. Device farm detection techniques
 
 #### Contributions welcome:
 
