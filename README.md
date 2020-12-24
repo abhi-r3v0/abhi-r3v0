@@ -1,7 +1,6 @@
 ### Hey there, fellow explorer! 
 
-Abhishek here, trying to make my Github look like it is still functional. 
-If you like my projects, please drop a star. It motivates me to write better READMEs :stuck_out_tongue:
+Abhishek here. I work as an application security engineer. Security automation is one of my favourite domains and some of those projects make it to Github. Reach out to me - jmabhishek4@gmail.com. Have a good day!
 
 #### What am I upto these days?
 
