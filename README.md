@@ -15,5 +15,5 @@ Abhishek here. I work as an application security engineer. Security automation i
 * You have a better logo? 
 
 ---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-r3v0&show_icons=true&locale=en" alt="abhi-r3v0" /></p>
 
-[](https://github-readme-stats.vercel.app/api?username=abhi-r3v0)
